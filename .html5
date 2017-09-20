@@ -1,0 +1,17 @@
+<!DOCTYPEhtml>
+<head><title>FONT</title>
+</head>
+<body>
+<font color=yellow>
+THIS TEXT IS IN YELLOW COLOR</font>
+<br>
+<font size=1.5>
+This text is in 1.5 size </font>
+<br>
+<font>
+<b>This text is BOLD</b><br>
+<i>This text is ITALIC</b><br>
+<u>This text is UNDERLINE</u>
+</font>
+</body>
+</html>
